@@ -2,3 +2,5 @@ Build/ filter=lfs diff=lfs merge=lfs -text
 Build/* filter=lfs diff=lfs merge=lfs -text
 Build/BombermanBuild.wasm.br filter=lfs diff=lfs merge=lfs -text
 Build/BombermanBuild.data.br filter=lfs diff=lfs merge=lfs -text
+Build/BombermanBuild.data filter=lfs diff=lfs merge=lfs -text
+Build/BombermanBuild.wasm filter=lfs diff=lfs merge=lfs -text
